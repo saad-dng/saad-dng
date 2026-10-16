@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Saad Bin Kabir">
+  <defs>
+    <clipPath id="clip"><rect width="1200" height="320" rx="20"/></clipPath>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridmask"><rect width="1200" height="320" fill="url(#fade)"/></mask>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9c4ff"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a78bfa" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .name{font:600 64px 'Segoe UI',Inter,Helvetica,Arial,sans-serif;letter-spacing:1px;animation:rise 1.6s ease-out both}
+    .sub{font:400 15px 'SF Mono','JetBrains Mono',Consolas,monospace;letter-spacing:5px;fill:#9aa4b5;animation:rise 2s ease-out .3s both}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="#090b10"/>
+    <g filter="url(#blur)" opacity="0.55">
+      <circle cx="260" cy="120" r="150" fill="#22d3ee">
+        <animateTransform attributeName="transform" type="translate" values="0 0;180 60;60 -30;0 0" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="620" cy="230" r="170" fill="#7c3aed">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-140 -50;120 -20;0 0" dur="22s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="960" cy="110" r="140" fill="#2563eb">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-160 70;40 40;0 0" dur="20s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect width="1200" height="320" fill="url(#grid)" mask="url(#gridmask)"/>
+    <rect width="1200" height="320" fill="#090b10" opacity="0.25"/>
+    <text class="name" x="600" y="165" text-anchor="middle" fill="url(#name)">Saad Bin Kabir</text>
+    <text class="sub" x="600" y="205" text-anchor="middle">DEVELOPER · DESIGNER · TINKERER</text>
+    <rect x="450" y="240" width="300" height="1.5" fill="url(#line)">
+      <animate attributeName="x" values="300;450;300" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="600;300;600" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
