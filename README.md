@@ -1,103 +1,100 @@
-<div align="center">
+# saad@arch:~$ whoami
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=Saad%20Bin%20Kabir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Saad Bin Kabir" width="100%" />
+```text
+        /\               saad@arch
+       /  \              ─────────────────────────────────────────
+      /    \             role      full-stack dev · designer · eng. student
+     /      \            age       20
+    /   ,,   \           distro    Arch Linux (btw)
+   /   |  |   -\         wm        Hyprland
+  /_-''    ''-_\         editor    whatever is open at 3AM
+                         obsession local AI · microcontrollers · details
+                         status    one more tab won't hurt
+```
 
-# Hi there, I'm Saad Bin Kabir 👋
+I build software, design interfaces, and take hardware apart to see how it works. I like modern aesthetics, small details nobody else notices, and the space between a polished UI and raw silicon.
 
-</div>
+<br>
 
-I'm a 20-year-old **full-stack developer, designer, engineering student and hardware tinkerer**, constantly jumping between software, electronics, and whatever random idea refuses to leave my head at 3AM.
+## `~/now`
 
-I’m drawn to modern aesthetics, obsessive attention to detail, seamless digital experiences, and the chaotic but fascinating world of **local AI, LLMs, microcontrollers, and custom Linux environments**.
+| | |
+|---|---|
+| **Portfolio** | Responsive bento-grid site in React, TypeScript, Vite and Tailwind |
+| **Smart calculator** | Built around the Seeed XIAO ESP32-S3, plus camera-to-AI bridges |
+| **Local "Jarvis"** | Local LLMs, speech-to-text and terminal automation on my PC |
+| **Arch rice** | Hyprland, dotfiles, terminal emulators, tiny workflow details |
+| **Design** | Minimal glassmorphic interfaces |
 
-# I use Arch btw. #
+<br>
 
----
+## `~/shipped`
 
-## 🚀 What I'm Currently Up To
+- **Tracking Planet**: real-time web app for live device tracking, built and deployed
+- **Deep OS customization**: custom ROMs, rooted Android, stripped-down and optimized Windows
+- **One Hours Odyssey**: YouTube channel of atmospheric 1-hour music loops
 
-* 💻 Building my personal portfolio — a responsive bento-grid experience using **React, TypeScript, Vite, and Tailwind CSS**.
+<br>
 
-* ⚡ Tinkering with hardware — currently exploring a smart calculator built around the **Seeed Studio XIAO ESP32-S3**, camera-to-AI bridges, and microcontroller integration, because apparently a normal calculator wasn't interesting enough.
+## `~/stack`
 
-* 🎙️ Building a custom local **"Jarvis"** for my PC, connecting local LLMs, speech-to-text models, and terminal automation to create a more natural way of interacting with my workspace.
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Astro](https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=FF5D01)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979D)
+![Arch](https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=1793D1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-* 🐧 Ricing my **Arch Linux** setup with Hyprland while obsessing over dotfiles, terminal emulators, workflows, and tiny details that absolutely nobody else will notice.
+<br>
 
-* 📐 Designing minimal, glassmorphic interfaces and exploring the space between polished digital experiences and raw hardware.
+## `~/3am.log`
 
----
+```text
+02:47  "I wonder if I could build that."
+03:12  "Wait, how does this actually work?"
+03:58  folder full of code, half-finished prototype, 11 tabs open for 3 days
+```
 
-## 📦 Things I've Built (So Far)
+Most ideas go nowhere. A few become projects. What connects them is that I like figuring things out, taking them apart, and occasionally rebuilding them just because I can.
 
-* **Tracking Planet** — A real-time web-based device tracking application built and deployed for live monitoring.
+<br>
 
-* **Deep OS Customization** — Everything from flashing custom ROMs and modifying rooted Android devices to stripping down and optimizing Windows environments.
+<details>
+<summary><b>Beyond the screen</b></summary>
 
-* **One Hours Odyssey** — A personal curation space on YouTube dedicated to crafting atmospheric 1-hour music loops.
+<br>
 
----
+**Photography.** My way of slowing down. I look for unusual light, architecture, cars, empty streets and clouds, and I care more about mood than perfection.
 
-## 🛠️ The Tech Omnivore's Stack
+**Music.** Atmospheric R&B, alternative rock, lo-fi, anything cinematic. I'll spend far too long on a playlist because one transition feels off.
 
-**Frontend & Design:**
+**Machines.** Cars, engines, drones, rockets, motors: parts that add up to something alive. That curiosity keeps pulling me between software and hardware.
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,astro&theme=dark" alt="Frontend and design stack" />
+**Everything else.** Gaming, running, editing photos, Linux experiments, and unrelated internet rabbit holes.
 
-**Backend, AI & Hardware:**
+</details>
 
-<img src="https://skillicons.dev/icons?i=nodejs,py,cpp,arduino&theme=dark" alt="Backend, AI and hardware stack" />
+<br>
 
-**Environment & Tooling:**
+## `~/contact`
 
-<img src="https://skillicons.dev/icons?i=arch,git,windows&theme=dark" alt="Environment and tooling" />
+```bash
+$ cat contact.txt
+```
 
----
+[![Email](https://img.shields.io/badge/Email-saadbinkabir2020@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:saadbinkabir2020@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@saaad.dng-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/saaad.dng)
+[![Spotify](https://img.shields.io/badge/Spotify-Saad_Bin_Kabir-0d1117?style=flat-square&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31wk3dkdkvzcmqjx63q2mf2r2qle?si=61abe248e5ef4494)
+[![Discord](https://img.shields.io/badge/Discord-Saad_Bin_Kabir-0d1117?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/747004636136996954)
 
-## 🌌 Beyond the Screen
+`website: coming soon (under development)`
 
-There’s a lot more to me than code.
+<br>
 
-I’ve always been drawn to things that let me **observe, create, and understand**. Whether I’m behind a camera, listening to music, working on a machine, or staring at something I probably should have stopped overthinking an hour ago, I tend to approach things with the same curiosity.
-
-**Photography** is one of the ways I slow down. I like walking around with a camera and looking for details that would otherwise disappear into the background — unusual light, architecture, people, cars, empty streets, clouds, or simply a moment that feels right. I’m less interested in making everything look perfect and more interested in capturing a certain **mood or feeling**.
-
-**Music** occupies a similar space. I gravitate toward atmospheric R&B, alternative rock, lo-fi, and songs that feel almost cinematic. I like music that creates a place in your head — something that fits a particular night, memory, weather, or train of thought. I often spend an unreasonable amount of time building a playlist because the transition between two songs doesn't feel quite right.
-
-Then there are **machines**. Cars, engines, drones, electronics, rockets, motors — I’ve always been fascinated by things where a collection of carefully designed parts becomes something alive and functional. I enjoy understanding the mechanics behind them just as much as using them. That curiosity is probably what keeps pulling me between software and hardware.
-
-When I’m not doing any of that, I’m probably gaming, running, editing photos, experimenting with Linux, designing something unnecessarily complicated, or disappearing down a completely unrelated internet rabbit hole.
-
-And, inevitably, there are the **3AM ideas**.
-
-The ones that start with *“I wonder if I could build that.”*
-Then become *“Wait, how does this actually work?”*
-And somehow end with a folder full of code, a half-finished prototype, and several tabs that have been open for three days.
-
-Most of those ideas go nowhere.
-
-A few become projects.
-
-I think that’s what connects most of the things I’m interested in: **I like figuring things out.** I like making things, taking things apart, questioning how they were designed, and occasionally rebuilding them just because I can.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-📧 **Email:** `saadbinkabir2020@gmail.com`
-
-📸 **Instagram:** [@saaad.dng](https://instagram.com/saaad.dng)
-
-🎧 **Spotify:** [Saad Bin Kabir](https://open.spotify.com/user/31wk3dkdkvzcmqjx63q2mf2r2qle?si=61abe248e5ef4494)
-
-💬 **Discord:** [Saad Bin Kabir](https://discord.com/users/747004636136996954)
-
-🌐 **Personal Website:** *Coming soon — currently under development.*
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" width="100%" />
-
-</div>
+```text
+saad@arch:~$ _
+```
